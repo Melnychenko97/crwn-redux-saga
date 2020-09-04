@@ -6,7 +6,7 @@
   "dependencies": {
     "firebase": "^7.5.0",
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "persist": "^0.2.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
